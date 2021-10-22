@@ -1,0 +1,15 @@
+body {
+	background-color: navy;
+	display: flex;
+}
+
+.login {
+	color: white;
+	font-weight: bold;
+}
+
+h1 {
+}
+
+form {
+}
